@@ -11,4 +11,9 @@
 - Git add .  / Git add *
 - Git commit -m "menssgem do commit"
 ## Push
-- Git push origin main 
+- Git push origin main
+## Clone , Fetch * Pull
+- Git Clone
+- Git Fetch
+- Git Status
+- Git Pull
